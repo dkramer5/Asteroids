@@ -1,0 +1,1266 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-09-25T16:19:05.030-04:00
+  initializedAtString: 2019-09-25T16:07:46.255-04:00
+  entries:
+  - path: .vscode\settings.json
+    fullPath: C:\Users\Tripwire\Astroids\.vscode\settings.json
+    projectPath: .vscode\settings.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts.meta
+    projectPath: Assets\Fonts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Black.ttf
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-Black.ttf
+    projectPath: Assets\Fonts\Roboto-Black.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Black.ttf.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-Black.ttf.meta
+    projectPath: Assets\Fonts\Roboto-Black.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-BlackItalic.ttf
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-BlackItalic.ttf
+    projectPath: Assets\Fonts\Roboto-BlackItalic.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-BlackItalic.ttf.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-BlackItalic.ttf.meta
+    projectPath: Assets\Fonts\Roboto-BlackItalic.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Bold.ttf
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-Bold.ttf
+    projectPath: Assets\Fonts\Roboto-Bold.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Bold.ttf.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-Bold.ttf.meta
+    projectPath: Assets\Fonts\Roboto-Bold.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-BoldItalic.ttf
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-BoldItalic.ttf
+    projectPath: Assets\Fonts\Roboto-BoldItalic.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-BoldItalic.ttf.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-BoldItalic.ttf.meta
+    projectPath: Assets\Fonts\Roboto-BoldItalic.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Light.ttf
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-Light.ttf
+    projectPath: Assets\Fonts\Roboto-Light.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Light.ttf.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-Light.ttf.meta
+    projectPath: Assets\Fonts\Roboto-Light.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-LightItalic.ttf
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-LightItalic.ttf
+    projectPath: Assets\Fonts\Roboto-LightItalic.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-LightItalic.ttf.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-LightItalic.ttf.meta
+    projectPath: Assets\Fonts\Roboto-LightItalic.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Medium.ttf
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-Medium.ttf
+    projectPath: Assets\Fonts\Roboto-Medium.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Medium.ttf.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-Medium.ttf.meta
+    projectPath: Assets\Fonts\Roboto-Medium.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-MediumItalic.ttf
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-MediumItalic.ttf
+    projectPath: Assets\Fonts\Roboto-MediumItalic.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-MediumItalic.ttf.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-MediumItalic.ttf.meta
+    projectPath: Assets\Fonts\Roboto-MediumItalic.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Regular.ttf
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-Regular.ttf
+    projectPath: Assets\Fonts\Roboto-Regular.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Regular.ttf.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-Regular.ttf.meta
+    projectPath: Assets\Fonts\Roboto-Regular.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-RegularItalic.ttf
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-RegularItalic.ttf
+    projectPath: Assets\Fonts\Roboto-RegularItalic.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-RegularItalic.ttf.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-RegularItalic.ttf.meta
+    projectPath: Assets\Fonts\Roboto-RegularItalic.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Thin.ttf
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-Thin.ttf
+    projectPath: Assets\Fonts\Roboto-Thin.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Thin.ttf.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-Thin.ttf.meta
+    projectPath: Assets\Fonts\Roboto-Thin.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-ThinItalic.ttf
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-ThinItalic.ttf
+    projectPath: Assets\Fonts\Roboto-ThinItalic.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-ThinItalic.ttf.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Fonts\Roboto-ThinItalic.ttf.meta
+    projectPath: Assets\Fonts\Roboto-ThinItalic.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Materials.meta
+    projectPath: Assets\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\CrystalProjectile.mat
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Materials\CrystalProjectile.mat
+    projectPath: Assets\Materials\CrystalProjectile.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\CrystalProjectile.mat.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Materials\CrystalProjectile.mat.meta
+    projectPath: Assets\Materials\CrystalProjectile.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\GroundTest.mat
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Materials\GroundTest.mat
+    projectPath: Assets\Materials\GroundTest.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\GroundTest.mat.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Materials\GroundTest.mat.meta
+    projectPath: Assets\Materials\GroundTest.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\MuzzleFlash.mat
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Materials\MuzzleFlash.mat
+    projectPath: Assets\Materials\MuzzleFlash.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\MuzzleFlash.mat.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Materials\MuzzleFlash.mat.meta
+    projectPath: Assets\Materials\MuzzleFlash.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Skybox_Mat.mat
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Materials\Skybox_Mat.mat
+    projectPath: Assets\Materials\Skybox_Mat.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Skybox_Mat.mat.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Materials\Skybox_Mat.mat.meta
+    projectPath: Assets\Materials\Skybox_Mat.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\TurretBase.mat
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Materials\TurretBase.mat
+    projectPath: Assets\Materials\TurretBase.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\TurretBase.mat.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Materials\TurretBase.mat.meta
+    projectPath: Assets\Materials\TurretBase.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Wall.mat
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Materials\Wall.mat
+    projectPath: Assets\Materials\Wall.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Wall.mat.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Materials\Wall.mat.meta
+    projectPath: Assets\Materials\Wall.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects.meta
+    projectPath: Assets\Objects.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles.meta
+    projectPath: Assets\Objects\Projectiles.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles\crystal.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles\crystal.meta
+    projectPath: Assets\Objects\Projectiles\crystal.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles\crystal.fbx
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles\crystal.fbx
+    projectPath: Assets\Objects\Projectiles\crystal.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles\crystal.fbx.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles\crystal.fbx.meta
+    projectPath: Assets\Objects\Projectiles\crystal.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles\crystal\Muzzle.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles\crystal\Muzzle.meta
+    projectPath: Assets\Objects\Projectiles\crystal\Muzzle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles\CrystalProjectilev2.fbx
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles\CrystalProjectilev2.fbx
+    projectPath: Assets\Objects\Projectiles\CrystalProjectilev2.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles\CrystalProjectilev2.fbx.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles\CrystalProjectilev2.fbx.meta
+    projectPath: Assets\Objects\Projectiles\CrystalProjectilev2.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles\Muzzle.fbx
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles\Muzzle.fbx
+    projectPath: Assets\Objects\Projectiles\Muzzle.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles\Muzzle.fbx.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles\Muzzle.fbx.meta
+    projectPath: Assets\Objects\Projectiles\Muzzle.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles\MuzzleFlash.png
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles\MuzzleFlash.png
+    projectPath: Assets\Objects\Projectiles\MuzzleFlash.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles\MuzzleFlash.png.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles\MuzzleFlash.png.meta
+    projectPath: Assets\Objects\Projectiles\MuzzleFlash.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles\UV.psd
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles\UV.psd
+    projectPath: Assets\Objects\Projectiles\UV.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles\UV.psd.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles\UV.psd.meta
+    projectPath: Assets\Objects\Projectiles\UV.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles\vfx_Projectile.prefab
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles\vfx_Projectile.prefab
+    projectPath: Assets\Objects\Projectiles\vfx_Projectile.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Projectiles\vfx_Projectile.prefab.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Projectiles\vfx_Projectile.prefab.meta
+    projectPath: Assets\Objects\Projectiles\vfx_Projectile.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Structures.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Structures.meta
+    projectPath: Assets\Objects\Structures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Structures\Torus.fbx
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Structures\Torus.fbx
+    projectPath: Assets\Objects\Structures\Torus.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Structures\Torus.fbx.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Structures\Torus.fbx.meta
+    projectPath: Assets\Objects\Structures\Torus.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Units.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Units.meta
+    projectPath: Assets\Objects\Units.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Units\Ship01.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Units\Ship01.meta
+    projectPath: Assets\Objects\Units\Ship01.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Units\Ship01\Ship02(Fractured2.0).fbx
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Units\Ship01\Ship02(Fractured2.0).fbx
+    projectPath: Assets\Objects\Units\Ship01\Ship02(Fractured2.0).fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Units\Ship01\Ship02(Fractured2.0).fbx.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Units\Ship01\Ship02(Fractured2.0).fbx.meta
+    projectPath: Assets\Objects\Units\Ship01\Ship02(Fractured2.0).fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Units\Ship01\Ship02.fbx
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Units\Ship01\Ship02.fbx
+    projectPath: Assets\Objects\Units\Ship01\Ship02.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Objects\Units\Ship01\Ship02.fbx.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Objects\Units\Ship01\Ship02.fbx.meta
+    projectPath: Assets\Objects\Units\Ship01\Ship02.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefab.meta
+    projectPath: Assets\Prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\ModdedPlasmaExplosionEffect.prefab
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefab\ModdedPlasmaExplosionEffect.prefab
+    projectPath: Assets\Prefab\ModdedPlasmaExplosionEffect.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\ModdedPlasmaExplosionEffect.prefab.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefab\ModdedPlasmaExplosionEffect.prefab.meta
+    projectPath: Assets\Prefab\ModdedPlasmaExplosionEffect.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\Ship03 (1.4).prefab
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefab\Ship03 (1.4).prefab
+    projectPath: Assets\Prefab\Ship03 (1.4).prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\Ship03 (1.4).prefab.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefab\Ship03 (1.4).prefab.meta
+    projectPath: Assets\Prefab\Ship03 (1.4).prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\Ship03(Fractured1.4).prefab
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefab\Ship03(Fractured1.4).prefab
+    projectPath: Assets\Prefab\Ship03(Fractured1.4).prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\Ship03(Fractured1.4).prefab.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefab\Ship03(Fractured1.4).prefab.meta
+    projectPath: Assets\Prefab\Ship03(Fractured1.4).prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\vfx_Projectile Variant.prefab
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefab\vfx_Projectile Variant.prefab
+    projectPath: Assets\Prefab\vfx_Projectile Variant.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\vfx_Projectile Variant.prefab.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefab\vfx_Projectile Variant.prefab.meta
+    projectPath: Assets\Prefab\vfx_Projectile Variant.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefabs.meta
+    projectPath: Assets\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Game_vfx_Projectile.prefab
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefabs\Game_vfx_Projectile.prefab
+    projectPath: Assets\Prefabs\Game_vfx_Projectile.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Game_vfx_Projectile.prefab.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefabs\Game_vfx_Projectile.prefab.meta
+    projectPath: Assets\Prefabs\Game_vfx_Projectile.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Ship02(Fractured2.0) Variant.prefab
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefabs\Ship02(Fractured2.0) Variant.prefab
+    projectPath: Assets\Prefabs\Ship02(Fractured2.0) Variant.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Ship02(Fractured2.0) Variant.prefab.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefabs\Ship02(Fractured2.0) Variant.prefab.meta
+    projectPath: Assets\Prefabs\Ship02(Fractured2.0) Variant.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Ship02.prefab
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefabs\Ship02.prefab
+    projectPath: Assets\Prefabs\Ship02.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Ship02.prefab.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefabs\Ship02.prefab.meta
+    projectPath: Assets\Prefabs\Ship02.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\vfx_Hit.prefab
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefabs\vfx_Hit.prefab
+    projectPath: Assets\Prefabs\vfx_Hit.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\vfx_Hit.prefab.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefabs\vfx_Hit.prefab.meta
+    projectPath: Assets\Prefabs\vfx_Hit.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\vfx_Muzzle_Flash.prefab
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefabs\vfx_Muzzle_Flash.prefab
+    projectPath: Assets\Prefabs\vfx_Muzzle_Flash.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\vfx_Muzzle_Flash.prefab.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefabs\vfx_Muzzle_Flash.prefab.meta
+    projectPath: Assets\Prefabs\vfx_Muzzle_Flash.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\vfx_Projectile.prefab
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefabs\vfx_Projectile.prefab
+    projectPath: Assets\Prefabs\vfx_Projectile.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\vfx_Projectile.prefab.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Prefabs\vfx_Projectile.prefab.meta
+    projectPath: Assets\Prefabs\vfx_Projectile.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets.meta
+    projectPath: Assets\Presets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\AudioCompressedInMemory.preset
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\AudioCompressedInMemory.preset
+    projectPath: Assets\Presets\AudioCompressedInMemory.preset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\AudioCompressedInMemory.preset.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\AudioCompressedInMemory.preset.meta
+    projectPath: Assets\Presets\AudioCompressedInMemory.preset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\AudioStreaming.preset
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\AudioStreaming.preset
+    projectPath: Assets\Presets\AudioStreaming.preset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\AudioStreaming.preset.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\AudioStreaming.preset.meta
+    projectPath: Assets\Presets\AudioStreaming.preset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\Defaults.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\Defaults.meta
+    projectPath: Assets\Presets\Defaults.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\Defaults\AlbedoTexture_Default.preset
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\Defaults\AlbedoTexture_Default.preset
+    projectPath: Assets\Presets\Defaults\AlbedoTexture_Default.preset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\Defaults\AlbedoTexture_Default.preset.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\Defaults\AlbedoTexture_Default.preset.meta
+    projectPath: Assets\Presets\Defaults\AlbedoTexture_Default.preset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\Defaults\AudioDecompressOnLoad_Default.preset
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\Defaults\AudioDecompressOnLoad_Default.preset
+    projectPath: Assets\Presets\Defaults\AudioDecompressOnLoad_Default.preset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\Defaults\AudioDecompressOnLoad_Default.preset.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\Defaults\AudioDecompressOnLoad_Default.preset.meta
+    projectPath: Assets\Presets\Defaults\AudioDecompressOnLoad_Default.preset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\Defaults\DirectionalLight_Default.preset
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\Defaults\DirectionalLight_Default.preset
+    projectPath: Assets\Presets\Defaults\DirectionalLight_Default.preset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\Defaults\DirectionalLight_Default.preset.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\Defaults\DirectionalLight_Default.preset.meta
+    projectPath: Assets\Presets\Defaults\DirectionalLight_Default.preset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\NormalTexture.preset
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\NormalTexture.preset
+    projectPath: Assets\Presets\NormalTexture.preset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\NormalTexture.preset.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\NormalTexture.preset.meta
+    projectPath: Assets\Presets\NormalTexture.preset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\UtilityTexture.preset
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\UtilityTexture.preset
+    projectPath: Assets\Presets\UtilityTexture.preset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Presets\UtilityTexture.preset.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Presets\UtilityTexture.preset.meta
+    projectPath: Assets\Presets\UtilityTexture.preset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Readme.asset
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Readme.asset
+    projectPath: Assets\Readme.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Readme.asset.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Readme.asset.meta
+    projectPath: Assets\Readme.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scenes.meta
+    projectPath: Assets\Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\MainGame.unity
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scenes\MainGame.unity
+    projectPath: Assets\Scenes\MainGame.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\MainGame.unity.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scenes\MainGame.unity.meta
+    projectPath: Assets\Scenes\MainGame.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts.meta
+    projectPath: Assets\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Cameracontroller.cs
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\Cameracontroller.cs
+    projectPath: Assets\Scripts\Cameracontroller.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Cameracontroller.cs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\Cameracontroller.cs.meta
+    projectPath: Assets\Scripts\Cameracontroller.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\destructable.cs
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\destructable.cs
+    projectPath: Assets\Scripts\destructable.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\destructable.cs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\destructable.cs.meta
+    projectPath: Assets\Scripts\destructable.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ObjectDeleteTimer.cs
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\ObjectDeleteTimer.cs
+    projectPath: Assets\Scripts\ObjectDeleteTimer.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ObjectDeleteTimer.cs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\ObjectDeleteTimer.cs.meta
+    projectPath: Assets\Scripts\ObjectDeleteTimer.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ObjectHealth.cs
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\ObjectHealth.cs
+    projectPath: Assets\Scripts\ObjectHealth.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ObjectHealth.cs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\ObjectHealth.cs.meta
+    projectPath: Assets\Scripts\ObjectHealth.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Projectile Damage.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\Projectile Damage.meta
+    projectPath: Assets\Scripts\Projectile Damage.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Projectile Damage\ProjectileDamage.cs
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\Projectile Damage\ProjectileDamage.cs
+    projectPath: Assets\Scripts\Projectile Damage\ProjectileDamage.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Projectile Damage\ProjectileDamage.cs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\Projectile Damage\ProjectileDamage.cs.meta
+    projectPath: Assets\Scripts\Projectile Damage\ProjectileDamage.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ProjectileMove.cs
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\ProjectileMove.cs
+    projectPath: Assets\Scripts\ProjectileMove.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ProjectileMove.cs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\ProjectileMove.cs.meta
+    projectPath: Assets\Scripts\ProjectileMove.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\RotateToMouse.cs
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\RotateToMouse.cs
+    projectPath: Assets\Scripts\RotateToMouse.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\RotateToMouse.cs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\RotateToMouse.cs.meta
+    projectPath: Assets\Scripts\RotateToMouse.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SelfDestruct.cs
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\SelfDestruct.cs
+    projectPath: Assets\Scripts\SelfDestruct.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SelfDestruct.cs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\SelfDestruct.cs.meta
+    projectPath: Assets\Scripts\SelfDestruct.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SpawnProjectile.cs
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\SpawnProjectile.cs
+    projectPath: Assets\Scripts\SpawnProjectile.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SpawnProjectile.cs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\SpawnProjectile.cs.meta
+    projectPath: Assets\Scripts\SpawnProjectile.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TargetHealth.cs
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\TargetHealth.cs
+    projectPath: Assets\Scripts\TargetHealth.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TargetHealth.cs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\TargetHealth.cs.meta
+    projectPath: Assets\Scripts\TargetHealth.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\UI.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\UI.meta
+    projectPath: Assets\Scripts\UI.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\UI\FieldOfView.cs
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\UI\FieldOfView.cs
+    projectPath: Assets\Scripts\UI\FieldOfView.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\UI\FieldOfView.cs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\UI\FieldOfView.cs.meta
+    projectPath: Assets\Scripts\UI\FieldOfView.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\UI\UpdateScore.cs
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\UI\UpdateScore.cs
+    projectPath: Assets\Scripts\UI\UpdateScore.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\UI\UpdateScore.cs.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Scripts\UI\UpdateScore.cs.meta
+    projectPath: Assets\Scripts\UI\UpdateScore.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Settings.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Settings.meta
+    projectPath: Assets\Settings.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Settings\PostProcessVolumeProfile.asset
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Settings\PostProcessVolumeProfile.asset
+    projectPath: Assets\Settings\PostProcessVolumeProfile.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Settings\PostProcessVolumeProfile.asset.meta
+    fullPath: C:\Users\Tripwire\Astroids\Assets\Settings\PostProcessVolumeProfile.asset.meta
+    projectPath: Assets\Settings\PostProcessVolumeProfile.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages\manifest.json
+    fullPath: C:\Users\Tripwire\Astroids\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\AudioManager.asset
+    projectPath: ProjectSettings\AudioManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ClusterInputManager.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\ClusterInputManager.asset
+    projectPath: ProjectSettings\ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\InputManager.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NetworkManager.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\NetworkManager.asset
+    projectPath: ProjectSettings\NetworkManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\PresetManager.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\PresetManager.asset
+    projectPath: ProjectSettings\PresetManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\VFXManager.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\VFXManager.asset
+    projectPath: ProjectSettings\VFXManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\XRSettings.asset
+    fullPath: C:\Users\Tripwire\Astroids\ProjectSettings\XRSettings.asset
+    projectPath: ProjectSettings\XRSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

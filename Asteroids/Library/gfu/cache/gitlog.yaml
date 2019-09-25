@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-09-25T16:20:01.667-04:00
+  initializedAtString: 2019-09-25T16:07:46.102-04:00
+  log:
+  - commitID: d721a4249e562b0c0d7dbfad86919739eb0457ea
+    mergeA: 
+    mergeB: 
+    authorName: BuildTools
+    authorEmail: unconfigured@null.spigotmc.org
+    commitEmail: unconfigured@null.spigotmc.org
+    commitName: BuildTools
+    summary: Initial commit
+    description: 
+    timeString: 2019-09-25T15:52:05.000-04:00
+    commitTimeString: 2019-09-25T15:52:05.000-04:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Tripwire\Astroids\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\Tripwire\Astroids\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Tripwire\Astroids\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
