@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{54D0CAE7-4DA6-1633-F5A7-A6316CE50F9B}</ProjectGuid>
+    <ProjectGuid>{70261382-45EB-0236-7EA2-855FCD841B8F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\PauseMenu.cs" />
      <Compile Include="Assets\Scripts\Cameracontroller.cs" />
      <Compile Include="Assets\Scripts\destructable.cs" />
      <Compile Include="Assets\Scripts\ObjectDeleteTimer.cs" />
@@ -68,37 +69,37 @@
      <Compile Include="Assets\Scripts\UI\FieldOfView.cs" />
      <Compile Include="Assets\Scripts\UI\UpdateScore.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Postprocessing.Editor">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Editor">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/ScriptAssemblies/Editor.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/ScriptAssemblies/Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Postprocessing.Runtime">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="XiaomiSupport">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/ScriptAssemblies/XiaomiSupport.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/ScriptAssemblies/XiaomiSupport.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Unity/2019.1.0f2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -284,19 +285,19 @@
  <HintPath>D:/Unity/2019.1.0f2/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="ChannelPurchase">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/PackageCache/com.unity.xiaomi@1.0.3/ChannelPurchase.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/PackageCache/com.unity.xiaomi@1.0.3/ChannelPurchase.dll</HintPath>
  </Reference>
  <Reference Include="UnityStore">
- <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Library/PackageCache/com.unity.xiaomi@1.0.3/UnityStore.dll</HintPath>
+ <HintPath>C:/Users/Tripwire/Documents/GitHub/Astroids/Asteroids/Library/PackageCache/com.unity.xiaomi@1.0.3/UnityStore.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>D:/Unity/2019.1.0f2/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
