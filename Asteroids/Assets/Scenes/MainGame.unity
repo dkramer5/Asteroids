@@ -316,6 +316,7 @@ GameObject:
   m_Component:
   - component: {fileID: 189158107}
   - component: {fileID: 189158108}
+  - component: {fileID: 189158109}
   m_Layer: 0
   m_Name: scene
   m_TagString: Untagged
@@ -360,6 +361,19 @@ MonoBehaviour:
   vfx:
   - {fileID: 8230034550754296604, guid: ab38430e768538641bb90d5fb4405250, type: 3}
   RotateToMouse: {fileID: 202774795}
+--- !u!114 &189158109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 189158106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2c68f5352af72c40b576a9981cdbfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Scoretext: {fileID: 748014972}
 --- !u!1 &202774790
 GameObject:
   m_ObjectHideFlags: 0
@@ -968,7 +982,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 485}
+  m_AnchoredPosition: {x: -0.000061035156, y: 484.99988}
   m_SizeDelta: {x: 0, y: 601}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &748014972
@@ -1432,6 +1446,7 @@ GameObject:
   - component: {fileID: 965029463}
   - component: {fileID: 965029462}
   - component: {fileID: 965029466}
+  - component: {fileID: 965029467}
   m_Layer: 5
   m_Name: MainUI
   m_TagString: Untagged
@@ -1533,6 +1548,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pauseMenuUI: {fileID: 2078914604}
+--- !u!114 &965029467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 965029461}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe8be95fd56af044abe43db12ae91fe3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WindowWidth: 0
+  WindowHeight: 0
 --- !u!1 &1047196717
 GameObject:
   m_ObjectHideFlags: 0
@@ -2177,10 +2206,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 100
   curHealth: 100
-  scoreValue: 10
+  scoreValue: 150
   spawnDebris: 1
-  destroyedversion: {fileID: 2361890663460349162, guid: f20fbe8109a87514b84d23ba600bbe50,
-    type: 3}
+  destroyedversion: {fileID: 8700246369972331901}
 --- !u!1 &1952402415
 GameObject:
   m_ObjectHideFlags: 0
@@ -2366,6 +2394,7 @@ GameObject:
   - component: {fileID: 2071129115}
   - component: {fileID: 2071129117}
   - component: {fileID: 2071129116}
+  - component: {fileID: 2071129118}
   m_Layer: 5
   m_Name: PauseBackground
   m_TagString: Untagged
@@ -2429,6 +2458,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2071129114}
   m_CullTransparentMesh: 0
+--- !u!114 &2071129118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2071129114}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2f8f70271e1ec34d98874a6036ab178, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2078914604
 GameObject:
   m_ObjectHideFlags: 0
@@ -2445,7 +2486,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2078914605
 RectTransform:
   m_ObjectHideFlags: 0

@@ -4,15 +4,14 @@ using UnityEngine;
 
 public class UpdateScore : MonoBehaviour
 {
-    public float scoreChange;
+    float scoreChange;
     public static int currentScore = 0; 
     public Text Scoretext;
 
-    
-
-
-
     void Update(){
+        // This script is for updating the score real time and can be placed anywhere within the game.
+        // 'ObjectStats' Passes the score change to this script.
+
 
         if (Scoretext != null){
             Scoretext.text = "Score: " + currentScore.ToString("0"); 
@@ -24,7 +23,4 @@ public class UpdateScore : MonoBehaviour
     public void Score(int scoreChange){
         currentScore += scoreChange;
     }
-
-
-
 }

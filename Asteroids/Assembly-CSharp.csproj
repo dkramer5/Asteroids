@@ -55,11 +55,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\PauseMenu.cs" />
+     <Compile Include="Assets\Scripts\AssignResolution.cs" />
      <Compile Include="Assets\Scripts\Cameracontroller.cs" />
      <Compile Include="Assets\Scripts\destructable.cs" />
+     <Compile Include="Assets\Scripts\GameSettings.cs" />
      <Compile Include="Assets\Scripts\ObjectDeleteTimer.cs" />
-     <Compile Include="Assets\Scripts\ObjectHealth.cs" />
+     <Compile Include="Assets\Scripts\ObjectStats.cs" />
+     <Compile Include="Assets\Scripts\PauseMenu.cs" />
      <Compile Include="Assets\Scripts\Projectile Damage\ProjectileDamage.cs" />
      <Compile Include="Assets\Scripts\ProjectileMove.cs" />
      <Compile Include="Assets\Scripts\RotateToMouse.cs" />

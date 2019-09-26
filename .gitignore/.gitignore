@@ -9,8 +9,9 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-/[Ss]haderCache/
-/[Ll]ibrary/[Ss]haderCache/
+[Ss]haderCache/
+**/[Ll]ibrary/[Ss]haderCache/
+
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
